@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-06-03T02:16:23.980058+00:00",
+  "generated_utc": "2026-06-03T02:19:51.068746+00:00",
   "dataset": "C:\\gmb_final\\data\\public_datasets\\kgp-entity-citation-graph",
-  "csv_report": "C:\\gmb_final\\artifacts\\citation_url_audits\\kgp_citation_url_audit_20260603T021623Z.csv",
+  "csv_report": "C:\\gmb_final\\artifacts\\citation_url_audits\\kgp_citation_url_audit_20260603T021951Z.csv",
   "latest_csv_report": "C:\\gmb_final\\artifacts\\citation_url_audits\\kgp_citation_url_audit_latest.csv",
   "row_count": 9,
   "unreachable_count": 0,
