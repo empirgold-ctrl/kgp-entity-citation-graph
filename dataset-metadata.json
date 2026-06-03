@@ -1,0 +1,74 @@
+{
+  "dataset_name": "King Pawn USA Entity and Citation Graph",
+  "version": "2026.06.01",
+  "synthetic": false,
+  "public_publish_allowed": true,
+  "publication_status": "approved_for_public_release",
+  "sources": [
+    {
+      "name": "King Pawn USA canonical location registry",
+      "path": "data/kgp_locations.json",
+      "source_type": "first_party_operational_registry"
+    },
+    {
+      "name": "Verified public citation evidence URLs",
+      "path": "citation_evidence_scan.csv",
+      "source_type": "reachable_profile_level_public_evidence"
+    }
+  ],
+  "schema": {
+    "kgp_locations.csv": [
+      "store_code",
+      "public_name",
+      "street_address",
+      "address_line_2",
+      "city",
+      "state",
+      "postal_code",
+      "phone",
+      "phone_e164",
+      "location_url",
+      "canonical_entity",
+      "full_address",
+      "service_targets"
+    ],
+    "kgp_sameas_edges.csv": [
+      "store_code",
+      "entity_url",
+      "same_as_url",
+      "relationship",
+      "verification_status"
+    ],
+    "citation_evidence_scan.csv": [
+      "source",
+      "source_url",
+      "citation_status",
+      "matched_store_codes",
+      "evidence_note",
+      "next_action",
+      "publication_class"
+    ],
+    "store_citation_edges.csv": [
+      "store_code",
+      "citation_source",
+      "citation_url",
+      "citation_status",
+      "citation_role",
+      "needs_manual_reconciliation"
+    ]
+  },
+  "limitations": [
+    "This dataset does not claim association membership unless separately verified.",
+    "GBP location IDs and private account/resource identifiers are intentionally excluded.",
+    "Only reachable first-party location URLs and reachable profile-level third-party citation evidence are included.",
+    "Directory search pages, blocked URLs, unverified memberships, and outreach opportunities are excluded from the public package.",
+    "No rankings, review counts, transaction volumes, or market-size claims are included."
+  ],
+  "files": [
+    "kgp_locations.csv",
+    "kgp_sameas_edges.csv",
+    "citation_evidence_scan.csv",
+    "store_citation_edges.csv",
+    "schema-dataset.jsonld"
+  ]
+}
