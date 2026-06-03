@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "King Pawn USA Entity and Citation Graph",
+  "version": "2026.06.01",
+  "dateModified": "2026-06-02",
+  "description": "A first-party entity registry and citation target graph for King Pawn USA / King Gold and Pawn locations.",
+  "creator": {
+    "@type": "Organization",
+    "name": "King Pawn USA",
+    "url": "https://kingpawnusa.com"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "King Pawn USA",
+    "King Gold and Pawn",
+    "pawn shop locations",
+    "pawn industry citations",
+    "New York pawn shops"
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "kgp_locations.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "kgp_sameas_edges.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "citation_evidence_scan.csv"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "store_citation_edges.csv"
+    }
+  ]
+}
