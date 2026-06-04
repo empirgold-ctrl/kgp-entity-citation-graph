@@ -2,8 +2,8 @@
   "dataset_name": "King Pawn USA Entity and Citation Graph",
   "version": "2026.06.01",
   "synthetic": false,
-  "public_publish_allowed": true,
-  "publication_status": "approved_for_public_release",
+  "public_publish_allowed": false,
+  "publication_status": "candidate_manual_review_required",
   "sources": [
     {
       "name": "King Pawn USA canonical location registry",
