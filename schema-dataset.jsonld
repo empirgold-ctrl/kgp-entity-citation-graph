@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "King Pawn USA Entity and Citation Graph",
   "version": "2026.06.01",
-  "dateModified": "2026-06-02",
+  "dateModified": "2026-06-03",
   "description": "A first-party entity registry and citation target graph for King Pawn USA / King Gold and Pawn locations.",
   "creator": {
     "@type": "Organization",
