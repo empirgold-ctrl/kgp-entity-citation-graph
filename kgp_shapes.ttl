@@ -1,0 +1,36 @@
+@prefix kgp: <https://kgp-datasets.local/vocab#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+kgp:ClaimShape a sh:NodeShape ;
+    sh:property [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path kgp:subject ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path kgp:predicate ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path kgp:objectValue ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path prov:wasDerivedFrom ],
+        [ sh:datatype xsd:decimal ;
+            sh:maxCount 1 ;
+            sh:maxInclusive 1 ;
+            sh:minCount 1 ;
+            sh:minInclusive 0 ;
+            sh:path kgp:confidence ] ;
+    sh:targetClass kgp:Claim .
+
+kgp:SourceShape a sh:NodeShape ;
+    sh:property [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path schema:url ],
+        [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path kgp:contentSha256 ] ;
+    sh:targetClass prov:Entity .
+
