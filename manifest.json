@@ -1,0 +1,42 @@
+{
+  "approval": {
+    "approval_file": "approval.json",
+    "approved_utc": "2026-06-05T20:01:01.457461+00:00",
+    "artifact_hash": "sha256:f98382d852a0a5cd816d2f181b2999ae42defb9ab6a8bafd1aefc2976e8ad46a",
+    "operator": "mobile_control_app"
+  },
+  "approved": true,
+  "artifact_hash": "sha256:f98382d852a0a5cd816d2f181b2999ae42defb9ab6a8bafd1aefc2976e8ad46a",
+  "constraints": {
+    "allowed_surfaces": [
+      "cloudflare_pages",
+      "github",
+      "huggingface",
+      "kaggle",
+      "dataworld"
+    ],
+    "forbidden_domains": [
+      "kinggoldandpawn.com"
+    ]
+  },
+  "generated_utc": "2026-06-05T20:00:48.698358+00:00",
+  "publish": {
+    "auto_publish": false,
+    "surfaces": [
+      "cloudflare_pages",
+      "github",
+      "huggingface",
+      "kaggle",
+      "dataworld"
+    ]
+  },
+  "run_id": "20260605T200047Z",
+  "stats": {
+    "claims": 56,
+    "entities": 8,
+    "locations": 7,
+    "relationships": 56,
+    "sources": 56
+  },
+  "validation_status": "pass"
+}
