@@ -1,0 +1,1115 @@
+@prefix kgp: <https://kgp-datasets.local/vocab#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://kgp-datasets.local/claim/clm:kg_brighton_beach:kgp-servicetargets:29d286a7> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "pawn loans; sell gold; jewelry; luxury watches; diamonds" ;
+    kgp:predicate "kgp:serviceTargets" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/claim/clm:kg_brighton_beach:schema-addresslocality:5c2b6be4> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "Brooklyn" ;
+    kgp:predicate "schema:addressLocality" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/claim/clm:kg_brighton_beach:schema-addressregion:0785e3df> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "NY" ;
+    kgp:predicate "schema:addressRegion" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/claim/clm:kg_brighton_beach:schema-name:d0cf2aad> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "King Gold and Pawn - Brighton Beach" ;
+    kgp:predicate "schema:name" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/claim/clm:kg_brighton_beach:schema-postalcode:7c6c48f3> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "11235" ;
+    kgp:predicate "schema:postalCode" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/claim/clm:kg_brighton_beach:schema-streetaddress:0cd52c46> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "510 Brighton Beach Ave" ;
+    kgp:predicate "schema:streetAddress" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/claim/clm:kg_brighton_beach:schema-telephone:053bd34d> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "+17186766762" ;
+    kgp:predicate "schema:telephone" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/claim/clm:kg_brighton_beach:schema-url:4f78fdb0> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "https://kingpawnusa.com/king-gold-and-pawn-shop-brighton-beach/" ;
+    kgp:predicate "schema:url" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/claim/clm:kg_bronx_longwood:kgp-servicetargets:4bcef129> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "pawn loans; cash for gold; jewelry; electronics; tools" ;
+    kgp:predicate "kgp:serviceTargets" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/claim/clm:kg_bronx_longwood:schema-addresslocality:10cfb5ee> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "Bronx" ;
+    kgp:predicate "schema:addressLocality" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/claim/clm:kg_bronx_longwood:schema-addressregion:ff023f90> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "NY" ;
+    kgp:predicate "schema:addressRegion" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/claim/clm:kg_bronx_longwood:schema-name:3c05a416> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "King Gold and Pawn - Bronx" ;
+    kgp:predicate "schema:name" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/claim/clm:kg_bronx_longwood:schema-postalcode:61d8dcd1> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "10459" ;
+    kgp:predicate "schema:postalCode" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/claim/clm:kg_bronx_longwood:schema-streetaddress:8a9c8c24> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "1054 Southern Blvd" ;
+    kgp:predicate "schema:streetAddress" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/claim/clm:kg_bronx_longwood:schema-telephone:a9425e9d> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "+17188727066" ;
+    kgp:predicate "schema:telephone" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/claim/clm:kg_bronx_longwood:schema-url:b71f8166> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "https://kingpawnusa.com/pawn-shop-the-bronx/" ;
+    kgp:predicate "schema:url" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/claim/clm:kg_freeport:kgp-servicetargets:4b0020fa> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "pawn loans; sell gold; jewelry appraisal; luxury watches; electronics" ;
+    kgp:predicate "kgp:serviceTargets" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/claim/clm:kg_freeport:schema-addresslocality:d2239ff8> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "Freeport" ;
+    kgp:predicate "schema:addressLocality" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/claim/clm:kg_freeport:schema-addressregion:b5f72b22> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "NY" ;
+    kgp:predicate "schema:addressRegion" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/claim/clm:kg_freeport:schema-name:90c4fbcf> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "King Gold and Pawn - Freeport" ;
+    kgp:predicate "schema:name" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/claim/clm:kg_freeport:schema-postalcode:225aa66c> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "11520" ;
+    kgp:predicate "schema:postalCode" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/claim/clm:kg_freeport:schema-streetaddress:375d05d1> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "24 W Merrick Rd" ;
+    kgp:predicate "schema:streetAddress" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/claim/clm:kg_freeport:schema-telephone:14d7603e> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "+15164423939" ;
+    kgp:predicate "schema:telephone" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/claim/clm:kg_freeport:schema-url:bfc18a9b> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "https://kingpawnusa.com/pawn-shop-freeport/" ;
+    kgp:predicate "schema:url" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/claim/clm:kg_lawrence:kgp-servicetargets:07dd79f4> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "pawn loans; sell gold; engagement rings; luxury watches; diamonds" ;
+    kgp:predicate "kgp:serviceTargets" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/claim/clm:kg_lawrence:schema-addresslocality:2139e843> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "Lawrence" ;
+    kgp:predicate "schema:addressLocality" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/claim/clm:kg_lawrence:schema-addressregion:2aae0fce> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "NY" ;
+    kgp:predicate "schema:addressRegion" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/claim/clm:kg_lawrence:schema-name:debbb6e8> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "King Gold and Pawn - Lawrence" ;
+    kgp:predicate "schema:name" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/claim/clm:kg_lawrence:schema-postalcode:20f7e6e7> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "11559" ;
+    kgp:predicate "schema:postalCode" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/claim/clm:kg_lawrence:schema-streetaddress:d77a824d> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "636 Rockaway Turnpike" ;
+    kgp:predicate "schema:streetAddress" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/claim/clm:kg_lawrence:schema-telephone:2ea4a3fd> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "+15168129339" ;
+    kgp:predicate "schema:telephone" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/claim/clm:kg_lawrence:schema-url:545a6d15> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "https://kingpawnusa.com/pawn-shop-lawrence/" ;
+    kgp:predicate "schema:url" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/claim/clm:kg_new_rochelle:kgp-servicetargets:fbe6b5df> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "pawn loans; sell gold; jewelry appraisal; luxury watches; diamonds" ;
+    kgp:predicate "kgp:serviceTargets" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/claim/clm:kg_new_rochelle:schema-addresslocality:c2f2a9e4> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "New Rochelle" ;
+    kgp:predicate "schema:addressLocality" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/claim/clm:kg_new_rochelle:schema-addressregion:5e7ac09c> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "NY" ;
+    kgp:predicate "schema:addressRegion" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/claim/clm:kg_new_rochelle:schema-name:64d8e007> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "King Gold and Pawn - New Rochelle" ;
+    kgp:predicate "schema:name" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/claim/clm:kg_new_rochelle:schema-postalcode:d127ba00> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "10801" ;
+    kgp:predicate "schema:postalCode" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/claim/clm:kg_new_rochelle:schema-streetaddress:edd21cbb> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "217 North Ave" ;
+    kgp:predicate "schema:streetAddress" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/claim/clm:kg_new_rochelle:schema-telephone:09fa1117> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "+19142789445" ;
+    kgp:predicate "schema:telephone" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/claim/clm:kg_new_rochelle:schema-url:cc0d7abe> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "https://kingpawnusa.com/pawn-shop-new-rochelle/" ;
+    kgp:predicate "schema:url" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/claim/clm:kg_pitkin:kgp-servicetargets:56461e13> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "pawn loans; cash for gold; electronics; tools; diamonds" ;
+    kgp:predicate "kgp:serviceTargets" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/claim/clm:kg_pitkin:schema-addresslocality:35b264ca> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "Brooklyn" ;
+    kgp:predicate "schema:addressLocality" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/claim/clm:kg_pitkin:schema-addressregion:b409195a> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "NY" ;
+    kgp:predicate "schema:addressRegion" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/claim/clm:kg_pitkin:schema-name:256d07ca> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "King Gold and Pawn - Pitkin Ave" ;
+    kgp:predicate "schema:name" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/claim/clm:kg_pitkin:schema-postalcode:2324a812> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "11212" ;
+    kgp:predicate "schema:postalCode" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/claim/clm:kg_pitkin:schema-streetaddress:40a42ab4> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "1683 Pitkin Ave" ;
+    kgp:predicate "schema:streetAddress" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/claim/clm:kg_pitkin:schema-telephone:945bbc69> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "+17184848001" ;
+    kgp:predicate "schema:telephone" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/claim/clm:kg_pitkin:schema-url:5dc1f0b4> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "https://kingpawnusa.com/king-gold-and-pawn-shop-pitkin-avenue/" ;
+    kgp:predicate "schema:url" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/claim/clm:kg_sunset_park:kgp-servicetargets:f39b4481> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "pawn loans; sell gold; jewelry; luxury watches; electronics" ;
+    kgp:predicate "kgp:serviceTargets" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/claim/clm:kg_sunset_park:schema-addresslocality:6b8cb600> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "Brooklyn" ;
+    kgp:predicate "schema:addressLocality" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/claim/clm:kg_sunset_park:schema-addressregion:0be6eab8> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "NY" ;
+    kgp:predicate "schema:addressRegion" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/claim/clm:kg_sunset_park:schema-name:573f9977> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "King Gold and Pawn - Sunset Park" ;
+    kgp:predicate "schema:name" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/claim/clm:kg_sunset_park:schema-postalcode:fd2cef95> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "11220" ;
+    kgp:predicate "schema:postalCode" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/claim/clm:kg_sunset_park:schema-streetaddress:ec9b6d1f> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "4507 5th Ave" ;
+    kgp:predicate "schema:streetAddress" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/claim/clm:kg_sunset_park:schema-telephone:f0d7d5a6> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "+17186333339" ;
+    kgp:predicate "schema:telephone" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/claim/clm:kg_sunset_park:schema-url:e32d1efa> a kgp:Claim ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "https://kingpawnusa.com/king-gold-and-pawn-shop-5th-avenue-brooklyn/" ;
+    kgp:predicate "schema:url" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/relationship/rel:kg_brighton_beach:sameas:0b173cec7f> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:yelp-com:0b173cec7f> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.yelp.com/biz/king-gold-and-pawn-of-cl-brooklyn" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/relationship/rel:kg_brighton_beach:sameas:2ebef08f36> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:ul-waze-com:2ebef08f36> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://ul.waze.com/ul?place=ChIJjWAxUF1FwokROt4W6rfewcA&ll=40.57726360%2C-73.96190470&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/relationship/rel:kg_brighton_beach:sameas:36e1bacd2c> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:bbb-org:36e1bacd2c> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.bbb.org/us/ny/brooklyn/profile/pawnbroker/king-gold-pawn-8-0121-87184136" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/relationship/rel:kg_brighton_beach:sameas:6385debeb3> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:hub-pawnfinders-com:6385debeb3> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726218" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/relationship/rel:kg_brighton_beach:sameas:d529a25275> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:jewelers-org:d529a25275> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161699" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/relationship/rel:kg_brighton_beach:sameas:e8fd5fd153> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-apple:e8fd5fd153> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.apple/p/afqPJ6JTE.FqbS" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/relationship/rel:kg_brighton_beach:sameas:fb32731667> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-app-goo-gl:fb32731667> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.app.goo.gl/8USRrgMZkafHCEZf9" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> .
+
+<https://kgp-datasets.local/relationship/rel:kg_bronx_longwood:sameas:0ba0fbe673> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:hub-pawnfinders-com:0ba0fbe673> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726212" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/relationship/rel:kg_bronx_longwood:sameas:2a6afef6ff> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:bbb-org:2a6afef6ff> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.bbb.org/us/ny/bronx/profile/pawnbroker/q-gold-pawn-0121-87184134" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/relationship/rel:kg_bronx_longwood:sameas:5188305555> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-apple:5188305555> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.apple/p/f6-_mvcV.e~GGj" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/relationship/rel:kg_bronx_longwood:sameas:6159f77644> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:jewelers-org:6159f77644> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161719" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/relationship/rel:kg_bronx_longwood:sameas:7f599ce40e> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:ul-waze-com:7f599ce40e> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://ul.waze.com/ul?place=ChIJgfi-tlX0wokRjniP5dLAKfY&ll=40.82449310%2C-73.89170600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/relationship/rel:kg_bronx_longwood:sameas:9fa64fb3f7> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:share-google:9fa64fb3f7> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://share.google/k7PdjbDwf0PYPTHZp" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/relationship/rel:kg_bronx_longwood:sameas:dc1ebf041e> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:yelp-com:dc1ebf041e> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.yelp.com/biz/king-gold-and-pawn-bronx?osq=King+Gold+and+Pawn" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> .
+
+<https://kgp-datasets.local/relationship/rel:kg_freeport:sameas:61655f2c54> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:hub-pawnfinders-com:61655f2c54> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726205" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/relationship/rel:kg_freeport:sameas:8adca3e935> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-apple:8adca3e935> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.apple/p/-xcPdkMTMus35x" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/relationship/rel:kg_freeport:sameas:c1bc24611e> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:ul-waze-com:c1bc24611e> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://ul.waze.com/ul?place=ChIJ__-v6_R7wokRttW-VzkM7xc&ll=40.65428620%2C-73.58126670&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/relationship/rel:kg_freeport:sameas:c7a0af17ae> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:bbb-org:c7a0af17ae> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.bbb.org/us/ny/freeport/profile/pawnbroker/king-gold-pawn-4-0121-149882" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/relationship/rel:kg_freeport:sameas:ca7f278f88> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:share-google:ca7f278f88> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://share.google/mN88qR6qbldow1jyP" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/relationship/rel:kg_freeport:sameas:cfbc2138d7> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:yelp-com:cfbc2138d7> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.yelp.com/biz/king-gold-and-pawn-freeport?osq=King+Gold+and+Pawn" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/relationship/rel:kg_freeport:sameas:feea0e5f49> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:jewelers-org:feea0e5f49> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161728" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-freeport> .
+
+<https://kgp-datasets.local/relationship/rel:kg_lawrence:sameas:389179f341> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:ul-waze-com:389179f341> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://ul.waze.com/ul?place=ChIJWQvyZtBlwokR1CQ7aTi9cFU&ll=40.63219360%2C-73.73848200&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/relationship/rel:kg_lawrence:sameas:4c60a6ff1c> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:jewelers-org:4c60a6ff1c> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82154366" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/relationship/rel:kg_lawrence:sameas:6d9cbffd07> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:yelp-com:6d9cbffd07> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.yelp.com/biz/king-gold-and-pawn-lawrence?osq=King+Gold+and+Pawn" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/relationship/rel:kg_lawrence:sameas:9547b31c61> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:hub-pawnfinders-com:9547b31c61> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-hq-4725224" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/relationship/rel:kg_lawrence:sameas:a2fce60834> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-apple:a2fce60834> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.apple/p/o0bU1R2xyBENio" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/relationship/rel:kg_lawrence:sameas:e0f91a9c07> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-app-goo-gl:e0f91a9c07> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.app.goo.gl/SyN86bEpk4pi6ZNCA" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/relationship/rel:kg_lawrence:sameas:ed8f6e6358> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:bbb-org:ed8f6e6358> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.bbb.org/us/ny/lawrence/profile/pawnbroker/king-gold-pawn-6-0121-87184133" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-lawrence> .
+
+<https://kgp-datasets.local/relationship/rel:kg_new_rochelle:sameas:09e46bc159> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:yelp-com:09e46bc159> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.yelp.com/biz/king-gold-and-pawn-of-new-rochelle-new-rochelle?osq=King+Gold+and+Pawn+new+rochelle" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/relationship/rel:kg_new_rochelle:sameas:0f343fdcfb> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-apple:0f343fdcfb> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.apple/p/e_zTgMgqnqLLke" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/relationship/rel:kg_new_rochelle:sameas:11a809f472> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:hub-pawnfinders-com:11a809f472> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726222" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/relationship/rel:kg_new_rochelle:sameas:2193852941> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:bbb-org:2193852941> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.bbb.org/us/ny/new-rochelle/profile/pawnbroker/king-gold-pawn-10-0121-165685" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/relationship/rel:kg_new_rochelle:sameas:818a79292d> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-app-goo-gl:818a79292d> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.app.goo.gl/BUDLB4FbkdAAwxJg7" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/relationship/rel:kg_new_rochelle:sameas:e91e8c7179> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:jewelers-org:e91e8c7179> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161747" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/relationship/rel:kg_new_rochelle:sameas:ed25a60de1> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:ul-waze-com:ed25a60de1> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://ul.waze.com/ul?venue_id=187564441.1875775483.21386778&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> .
+
+<https://kgp-datasets.local/relationship/rel:kg_pitkin:sameas:0145244159> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-apple:0145244159> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.apple/p/HRZYMeVQCdJVD7" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/relationship/rel:kg_pitkin:sameas:23f547291c> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:yelp-com:23f547291c> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.yelp.com/biz/king-gold-and-pawn-brooklyn" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/relationship/rel:kg_pitkin:sameas:86f5689d8c> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:ul-waze-com:86f5689d8c> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://ul.waze.com/ul?place=ChIJNRXUnEtawokR9DES0CIfCZk&ll=40.66974440%2C-73.91114370&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/relationship/rel:kg_pitkin:sameas:915f79ccef> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:hub-pawnfinders-com:915f79ccef> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726215" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/relationship/rel:kg_pitkin:sameas:9c961e6e2f> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:jewelers-org:9c961e6e2f> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161711" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/relationship/rel:kg_pitkin:sameas:c03edac4ea> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:bbb-org:c03edac4ea> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.bbb.org/us/ny/brooklyn/profile/pawnbroker/king-gold-pawn-iii-inc-0121-87184139" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/relationship/rel:kg_pitkin:sameas:d95485435e> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:share-google:d95485435e> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://share.google/r6pTNyPNBVfhJI0Ot" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-pitkin> .
+
+<https://kgp-datasets.local/relationship/rel:kg_sunset_park:sameas:2dc46976e7> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:yelp-com:2dc46976e7> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.yelp.com/biz/king-gold-and-pawn-brooklyn-2?osq=King+Gold+and+Pawn" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/relationship/rel:kg_sunset_park:sameas:3c0f236bc0> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:jewelers-org:3c0f236bc0> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161681" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/relationship/rel:kg_sunset_park:sameas:6724f19b15> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:ul-waze-com:6724f19b15> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://ul.waze.com/ul?place=ChIJPS4tzLdawokRrRXkdlZ-gx0&ll=40.64758360%2C-74.00745010&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/relationship/rel:kg_sunset_park:sameas:92f99083aa> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:bbb-org:92f99083aa> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://www.bbb.org/us/ny/brooklyn/profile/pawnbroker/king-gold-pawn-12-0121-87184135" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/relationship/rel:kg_sunset_park:sameas:990b51f2a3> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:maps-apple:990b51f2a3> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://maps.apple/p/tuTCEeAPYeuPtG" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/relationship/rel:kg_sunset_park:sameas:9b554980cd> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:share-google:9b554980cd> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://share.google/3pztGLEU37h1XSVAU" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/relationship/rel:kg_sunset_park:sameas:ab81dcb726> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:hub-pawnfinders-com:ab81dcb726> ;
+    kgp:confidence 0.95 ;
+    kgp:objectValue "https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726221" ;
+    kgp:predicate "schema:sameAs" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> .
+
+<https://kgp-datasets.local/relationship/rel:org-has-location:kg_brighton_beach> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "ent:loc:kg-brighton-beach" ;
+    kgp:predicate "schema:hasPart" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:org:king-pawn-usa> .
+
+<https://kgp-datasets.local/relationship/rel:org-has-location:kg_bronx_longwood> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "ent:loc:kg-bronx-longwood" ;
+    kgp:predicate "schema:hasPart" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:org:king-pawn-usa> .
+
+<https://kgp-datasets.local/relationship/rel:org-has-location:kg_freeport> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "ent:loc:kg-freeport" ;
+    kgp:predicate "schema:hasPart" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:org:king-pawn-usa> .
+
+<https://kgp-datasets.local/relationship/rel:org-has-location:kg_lawrence> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "ent:loc:kg-lawrence" ;
+    kgp:predicate "schema:hasPart" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:org:king-pawn-usa> .
+
+<https://kgp-datasets.local/relationship/rel:org-has-location:kg_new_rochelle> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "ent:loc:kg-new-rochelle" ;
+    kgp:predicate "schema:hasPart" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:org:king-pawn-usa> .
+
+<https://kgp-datasets.local/relationship/rel:org-has-location:kg_pitkin> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "ent:loc:kg-pitkin" ;
+    kgp:predicate "schema:hasPart" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:org:king-pawn-usa> .
+
+<https://kgp-datasets.local/relationship/rel:org-has-location:kg_sunset_park> a kgp:Relationship ;
+    prov:wasDerivedFrom <https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> ;
+    kgp:confidence 1.00 ;
+    kgp:objectValue "ent:loc:kg-sunset-park" ;
+    kgp:predicate "schema:hasPart" ;
+    kgp:subject <https://kgp-datasets.local/entity/ent:org:king-pawn-usa> .
+
+<https://kgp-datasets.local/source/src:bbb-org:2193852941> a prov:Entity ;
+    kgp:contentSha256 "sha256:289e20df8f6b9998012e20e214928da05cb2e1b4289b3bd27f462785540a5cab" ;
+    schema:name "BBB" ;
+    schema:url <https://www.bbb.org/us/ny/new-rochelle/profile/pawnbroker/king-gold-pawn-10-0121-165685> .
+
+<https://kgp-datasets.local/source/src:bbb-org:2a6afef6ff> a prov:Entity ;
+    kgp:contentSha256 "sha256:2b96b1435e694b8a69d915162d0ba6728d29a330d24def8a4b08c609c8dd630d" ;
+    schema:name "BBB" ;
+    schema:url <https://www.bbb.org/us/ny/bronx/profile/pawnbroker/q-gold-pawn-0121-87184134> .
+
+<https://kgp-datasets.local/source/src:bbb-org:36e1bacd2c> a prov:Entity ;
+    kgp:contentSha256 "sha256:9b3f5b811deb7d40aed5d736ffb53053ad7d52a8dcabddc7c545156bb82ef5b4" ;
+    schema:name "BBB" ;
+    schema:url <https://www.bbb.org/us/ny/brooklyn/profile/pawnbroker/king-gold-pawn-8-0121-87184136> .
+
+<https://kgp-datasets.local/source/src:bbb-org:92f99083aa> a prov:Entity ;
+    kgp:contentSha256 "sha256:4a09b2233c74a575ee11eafe8bc753d1dbe708cf2e38e9345b4965500d139ca7" ;
+    schema:name "BBB" ;
+    schema:url <https://www.bbb.org/us/ny/brooklyn/profile/pawnbroker/king-gold-pawn-12-0121-87184135> .
+
+<https://kgp-datasets.local/source/src:bbb-org:c03edac4ea> a prov:Entity ;
+    kgp:contentSha256 "sha256:9240abd177572edf6adbaf7e65a06f55d7e50a6e6f54ea59da2491abd61049f6" ;
+    schema:name "BBB" ;
+    schema:url <https://www.bbb.org/us/ny/brooklyn/profile/pawnbroker/king-gold-pawn-iii-inc-0121-87184139> .
+
+<https://kgp-datasets.local/source/src:bbb-org:c7a0af17ae> a prov:Entity ;
+    kgp:contentSha256 "sha256:f9c3f1c81644a06f7cb787cb4d549c9d03f7b26b4bd4114eb588b49011d34b39" ;
+    schema:name "BBB" ;
+    schema:url <https://www.bbb.org/us/ny/freeport/profile/pawnbroker/king-gold-pawn-4-0121-149882> .
+
+<https://kgp-datasets.local/source/src:bbb-org:ed8f6e6358> a prov:Entity ;
+    kgp:contentSha256 "sha256:aebed6f2d093d7c4919d3946772db974f57c49dfdeab4f295657572da71f9f67" ;
+    schema:name "BBB" ;
+    schema:url <https://www.bbb.org/us/ny/lawrence/profile/pawnbroker/king-gold-pawn-6-0121-87184133> .
+
+<https://kgp-datasets.local/source/src:hub-pawnfinders-com:0ba0fbe673> a prov:Entity ;
+    kgp:contentSha256 "sha256:d03dc8673620e80affc4ad27f12e550b29562d3e75862dcdbbfb3a24e04d768c" ;
+    schema:name "pawnfinders.com" ;
+    schema:url <https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726212> .
+
+<https://kgp-datasets.local/source/src:hub-pawnfinders-com:11a809f472> a prov:Entity ;
+    kgp:contentSha256 "sha256:b647910d3cd0041e70e6776e18d8afabfe7851537f9acc80a15ff8c2383c4719" ;
+    schema:name "pawnfinders.com" ;
+    schema:url <https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726222> .
+
+<https://kgp-datasets.local/source/src:hub-pawnfinders-com:61655f2c54> a prov:Entity ;
+    kgp:contentSha256 "sha256:5e2b52538f54c87693526d4ab609aa4be59e6bb27aaf2b342fdfa1cfd299ba41" ;
+    schema:name "pawnfinders.com" ;
+    schema:url <https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726205> .
+
+<https://kgp-datasets.local/source/src:hub-pawnfinders-com:6385debeb3> a prov:Entity ;
+    kgp:contentSha256 "sha256:4867dfd81e6fbd7eb0a268aab4922d48385c88a4bb1c565ca85f52976a4dbce2" ;
+    schema:name "pawnfinders.com" ;
+    schema:url <https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726218> .
+
+<https://kgp-datasets.local/source/src:hub-pawnfinders-com:915f79ccef> a prov:Entity ;
+    kgp:contentSha256 "sha256:c9a7f5a85321ff561ac03feed4032fd4961ab3d1c44b86a5921c8288fbd9cd24" ;
+    schema:name "pawnfinders.com" ;
+    schema:url <https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726215> .
+
+<https://kgp-datasets.local/source/src:hub-pawnfinders-com:9547b31c61> a prov:Entity ;
+    kgp:contentSha256 "sha256:36881267f84406d2410971dc0c725ec62dcb4cacc9a15280fd09782347751906" ;
+    schema:name "pawnfinders.com" ;
+    schema:url <https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-hq-4725224> .
+
+<https://kgp-datasets.local/source/src:hub-pawnfinders-com:ab81dcb726> a prov:Entity ;
+    kgp:contentSha256 "sha256:1fb0ab5a7e51c805185ca3156303a7ba058c4e29794b16372da1bf79b42429ac" ;
+    schema:name "pawnfinders.com" ;
+    schema:url <https://hub.pawnfinders.com/pawnfinders-directory/Details/king-gold-and-pawn-4726221> .
+
+<https://kgp-datasets.local/source/src:jewelers-org:3c0f236bc0> a prov:Entity ;
+    kgp:contentSha256 "sha256:d6a0ce63692d96df8d8b183967d305f2c8c0fc58fb0dd293b9d1fbfee59695e5" ;
+    schema:name "jewelers.org" ;
+    schema:url <https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161681> .
+
+<https://kgp-datasets.local/source/src:jewelers-org:4c60a6ff1c> a prov:Entity ;
+    kgp:contentSha256 "sha256:a505a235a747a7d30421ee506c7adb08f4eaaf25586c5ff3facbeaad11f94698" ;
+    schema:name "jewelers.org" ;
+    schema:url <https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82154366> .
+
+<https://kgp-datasets.local/source/src:jewelers-org:6159f77644> a prov:Entity ;
+    kgp:contentSha256 "sha256:9cfe6b257d58e6e5f3ac72706bf8d2b45f0033dd38d55494c58658a64e7bb861" ;
+    schema:name "jewelers.org" ;
+    schema:url <https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161719> .
+
+<https://kgp-datasets.local/source/src:jewelers-org:9c961e6e2f> a prov:Entity ;
+    kgp:contentSha256 "sha256:8a30f215c7856ad0132e0d5c59a675d8a783f67363abcf67589f7622c686a13d" ;
+    schema:name "jewelers.org" ;
+    schema:url <https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161711> .
+
+<https://kgp-datasets.local/source/src:jewelers-org:d529a25275> a prov:Entity ;
+    kgp:contentSha256 "sha256:4aa2a2b80f5cb52296e50f0c2b0feb95832f787279795c62a2f4a2a08655e4d2" ;
+    schema:name "jewelers.org" ;
+    schema:url <https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161699> .
+
+<https://kgp-datasets.local/source/src:jewelers-org:e91e8c7179> a prov:Entity ;
+    kgp:contentSha256 "sha256:7f3d0bfe78a700dd9d97afaeb0c038a5b0f5c9d0e67faba4c3713d1bb1f492e4" ;
+    schema:name "jewelers.org" ;
+    schema:url <https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161747> .
+
+<https://kgp-datasets.local/source/src:jewelers-org:feea0e5f49> a prov:Entity ;
+    kgp:contentSha256 "sha256:e65683ca09a17490331c52e534972b2af717b5f43c6123c71eece4659a47b720" ;
+    schema:name "jewelers.org" ;
+    schema:url <https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/king-gold-and-pawn-82161728> .
+
+<https://kgp-datasets.local/source/src:maps-app-goo-gl:818a79292d> a prov:Entity ;
+    kgp:contentSha256 "sha256:4bee161730b0ff579a1c9951fc87574cddf0a46548c55334fda44a13adb82f7e" ;
+    schema:name "Google" ;
+    schema:url <https://maps.app.goo.gl/BUDLB4FbkdAAwxJg7> .
+
+<https://kgp-datasets.local/source/src:maps-app-goo-gl:e0f91a9c07> a prov:Entity ;
+    kgp:contentSha256 "sha256:527556c541ba67a95fbeda824d75285aea58d870e4a52b09c04019eee61cdf7c" ;
+    schema:name "Google" ;
+    schema:url <https://maps.app.goo.gl/SyN86bEpk4pi6ZNCA> .
+
+<https://kgp-datasets.local/source/src:maps-app-goo-gl:fb32731667> a prov:Entity ;
+    kgp:contentSha256 "sha256:8166a2ae2dbb6554f82e60577932e746cacd24d3f34ada419ade197ba06eb353" ;
+    schema:name "Google" ;
+    schema:url <https://maps.app.goo.gl/8USRrgMZkafHCEZf9> .
+
+<https://kgp-datasets.local/source/src:maps-apple:0145244159> a prov:Entity ;
+    kgp:contentSha256 "sha256:beb700e8b9d3e3f5a4f59ae454e89e8e76567748562a49206b69eaf97bee0a70" ;
+    schema:name "Apple maps" ;
+    schema:url <https://maps.apple/p/HRZYMeVQCdJVD7> .
+
+<https://kgp-datasets.local/source/src:maps-apple:0f343fdcfb> a prov:Entity ;
+    kgp:contentSha256 "sha256:2fc21b9b756ae1210a5429f6a057c27c7a4639da6df4561d5d768769db005313" ;
+    schema:name "Apple maps" ;
+    schema:url <https://maps.apple/p/e_zTgMgqnqLLke> .
+
+<https://kgp-datasets.local/source/src:maps-apple:5188305555> a prov:Entity ;
+    kgp:contentSha256 "sha256:0261b0e452d25f6d5bc1c333c26a3f76d70b3fbb213ed9f2407c67c4821847f5" ;
+    schema:name "Apple maps" ;
+    schema:url <https://maps.apple/p/f6-_mvcV.e~GGj> .
+
+<https://kgp-datasets.local/source/src:maps-apple:8adca3e935> a prov:Entity ;
+    kgp:contentSha256 "sha256:9320d8023bf9e4ac1bbd9d5ecb15de17703938220a1dd786dfed03e0af01b22c" ;
+    schema:name "Apple maps" ;
+    schema:url <https://maps.apple/p/-xcPdkMTMus35x> .
+
+<https://kgp-datasets.local/source/src:maps-apple:990b51f2a3> a prov:Entity ;
+    kgp:contentSha256 "sha256:b893ed3a8a8cabb4e5bd94d26c1e8ff045878d8039505c93399bb1a7f19c0de6" ;
+    schema:name "Apple maps" ;
+    schema:url <https://maps.apple/p/tuTCEeAPYeuPtG> .
+
+<https://kgp-datasets.local/source/src:maps-apple:a2fce60834> a prov:Entity ;
+    kgp:contentSha256 "sha256:05e679ebcc0ec610afab993be4fa31b4f3e53e67aecac15101aae2cab7383f4d" ;
+    schema:name "Apple maps" ;
+    schema:url <https://maps.apple/p/o0bU1R2xyBENio> .
+
+<https://kgp-datasets.local/source/src:maps-apple:e8fd5fd153> a prov:Entity ;
+    kgp:contentSha256 "sha256:4c9c810e5c8f432e8d5b8b8bbb0bb9eff22c63a68fbff1bfd2a6ca326db4412c" ;
+    schema:name "Apple maps" ;
+    schema:url <https://maps.apple/p/afqPJ6JTE.FqbS> .
+
+<https://kgp-datasets.local/source/src:share-google:9b554980cd> a prov:Entity ;
+    kgp:contentSha256 "sha256:ad84650d4ca84b0d55e8ae4b12acda0c3ca66cd1b584db1e8b6587a2a08c6360" ;
+    schema:name "Google" ;
+    schema:url <https://share.google/3pztGLEU37h1XSVAU> .
+
+<https://kgp-datasets.local/source/src:share-google:9fa64fb3f7> a prov:Entity ;
+    kgp:contentSha256 "sha256:99e9a60d126b844c835f2f24e555a39c40f3b2134742eb90cf02fa48d1007d78" ;
+    schema:name "Google" ;
+    schema:url <https://share.google/k7PdjbDwf0PYPTHZp> .
+
+<https://kgp-datasets.local/source/src:share-google:ca7f278f88> a prov:Entity ;
+    kgp:contentSha256 "sha256:fed12863b4ab8026ddcaaa31922814f86a69da7f438e098231fb0b509069e77f" ;
+    schema:name "Google" ;
+    schema:url <https://share.google/mN88qR6qbldow1jyP> .
+
+<https://kgp-datasets.local/source/src:share-google:d95485435e> a prov:Entity ;
+    kgp:contentSha256 "sha256:14ee69ccdd0bcbafad1f6b03c93a12bca05206a44191b9e76e5c087d6636dbb2" ;
+    schema:name "Google" ;
+    schema:url <https://share.google/r6pTNyPNBVfhJI0Ot> .
+
+<https://kgp-datasets.local/source/src:ul-waze-com:2ebef08f36> a prov:Entity ;
+    kgp:contentSha256 "sha256:8fd3e9b3d33ac10397afe9fffdf76e457d85da4779e1512f2aed1ede59105f2f" ;
+    schema:name "Waze" ;
+    schema:url <https://ul.waze.com/ul?place=ChIJjWAxUF1FwokROt4W6rfewcA&ll=40.57726360%2C-73.96190470&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location> .
+
+<https://kgp-datasets.local/source/src:ul-waze-com:389179f341> a prov:Entity ;
+    kgp:contentSha256 "sha256:92d472645dd4038d4abf1d91838119ef01d3453f56d19b64a67a6cae97a05c3e" ;
+    schema:name "Waze" ;
+    schema:url <https://ul.waze.com/ul?place=ChIJWQvyZtBlwokR1CQ7aTi9cFU&ll=40.63219360%2C-73.73848200&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location> .
+
+<https://kgp-datasets.local/source/src:ul-waze-com:6724f19b15> a prov:Entity ;
+    kgp:contentSha256 "sha256:d4d976813b9f664241cb8d9893e0f7e565b49ec91ab3f8b590d05846c505f651" ;
+    schema:name "Waze" ;
+    schema:url <https://ul.waze.com/ul?place=ChIJPS4tzLdawokRrRXkdlZ-gx0&ll=40.64758360%2C-74.00745010&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location> .
+
+<https://kgp-datasets.local/source/src:ul-waze-com:7f599ce40e> a prov:Entity ;
+    kgp:contentSha256 "sha256:435459bc501e81f8d1e5b792c2dabb3f25789c511ca19584594677265c62e6ed" ;
+    schema:name "Waze" ;
+    schema:url <https://ul.waze.com/ul?place=ChIJgfi-tlX0wokRjniP5dLAKfY&ll=40.82449310%2C-73.89170600&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location> .
+
+<https://kgp-datasets.local/source/src:ul-waze-com:86f5689d8c> a prov:Entity ;
+    kgp:contentSha256 "sha256:545febf4eb7c3725453438545ae6b7b5a3bb61f928fd94f4e1f330ce3a802072" ;
+    schema:name "Waze" ;
+    schema:url <https://ul.waze.com/ul?place=ChIJNRXUnEtawokR9DES0CIfCZk&ll=40.66974440%2C-73.91114370&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location> .
+
+<https://kgp-datasets.local/source/src:ul-waze-com:c1bc24611e> a prov:Entity ;
+    kgp:contentSha256 "sha256:1eb1bef78c6a897d7599b7ae5309cbfc558c4d8fdda9dfc37dd2494a810ca718" ;
+    schema:name "Waze" ;
+    schema:url <https://ul.waze.com/ul?place=ChIJ__-v6_R7wokRttW-VzkM7xc&ll=40.65428620%2C-73.58126670&navigate=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location> .
+
+<https://kgp-datasets.local/source/src:ul-waze-com:ed25a60de1> a prov:Entity ;
+    kgp:contentSha256 "sha256:fdb49ec3f80e30c43e13721cf9f19d064c9cfab739d66e4fc194386bafdff1a5" ;
+    schema:name "Waze" ;
+    schema:url <https://ul.waze.com/ul?venue_id=187564441.1875775483.21386778&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location> .
+
+<https://kgp-datasets.local/source/src:yelp-com:09e46bc159> a prov:Entity ;
+    kgp:contentSha256 "sha256:554ddb4eefef8f456948211c40817aed8f34165f3cb9420b16c59a21ff6690b5" ;
+    schema:name "YELP" ;
+    schema:url <https://www.yelp.com/biz/king-gold-and-pawn-of-new-rochelle-new-rochelle?osq=King+Gold+and+Pawn+new+rochelle> .
+
+<https://kgp-datasets.local/source/src:yelp-com:0b173cec7f> a prov:Entity ;
+    kgp:contentSha256 "sha256:12893a85c6252310b04eac80c6abab09e1767de464b5a2709994954ca7e48c13" ;
+    schema:name "YELP" ;
+    schema:url <https://www.yelp.com/biz/king-gold-and-pawn-of-cl-brooklyn> .
+
+<https://kgp-datasets.local/source/src:yelp-com:23f547291c> a prov:Entity ;
+    kgp:contentSha256 "sha256:267f72f28f7b2bda37c2cccaa1bef5318c3b38ae53e541183f7fdaf4057f0c54" ;
+    schema:name "YELP" ;
+    schema:url <https://www.yelp.com/biz/king-gold-and-pawn-brooklyn> .
+
+<https://kgp-datasets.local/source/src:yelp-com:2dc46976e7> a prov:Entity ;
+    kgp:contentSha256 "sha256:82b43d6dc076ff4324001019e5932ffb4a60d95c424394ea08ca951bba8acd81" ;
+    schema:name "YELP" ;
+    schema:url <https://www.yelp.com/biz/king-gold-and-pawn-brooklyn-2?osq=King+Gold+and+Pawn> .
+
+<https://kgp-datasets.local/source/src:yelp-com:6d9cbffd07> a prov:Entity ;
+    kgp:contentSha256 "sha256:373fb41eebd004462a3dc53e3aa86453a7fa94a386ed0f5ae8e43cc879fa4269" ;
+    schema:name "YELP" ;
+    schema:url <https://www.yelp.com/biz/king-gold-and-pawn-lawrence?osq=King+Gold+and+Pawn> .
+
+<https://kgp-datasets.local/source/src:yelp-com:cfbc2138d7> a prov:Entity ;
+    kgp:contentSha256 "sha256:4edc7c5cea212566fa254fcc9244be5816c8482298be1aaa24f736aa2f7c0ea7" ;
+    schema:name "YELP" ;
+    schema:url <https://www.yelp.com/biz/king-gold-and-pawn-freeport?osq=King+Gold+and+Pawn> .
+
+<https://kgp-datasets.local/source/src:yelp-com:dc1ebf041e> a prov:Entity ;
+    kgp:contentSha256 "sha256:25998160477578559c15c178471b9953d68b86503b9f979f216d0ef823c9d1bf" ;
+    schema:name "YELP" ;
+    schema:url <https://www.yelp.com/biz/king-gold-and-pawn-bronx?osq=King+Gold+and+Pawn> .
+
+<https://kgp-datasets.local/entity/ent:org:king-pawn-usa> a kgp:Entity ;
+    schema:name "King Pawn USA" ;
+    schema:url <https://kingpawnusa.com> .
+
+<https://kgp-datasets.local/source/src:kingpawnusa-com:0a0165f4a5> a prov:Entity ;
+    kgp:contentSha256 "sha256:71d0e22cc054b0c1dc0c6fa9c38275387a9251f056b908301d0ae4741154e7d5" ;
+    schema:name "King Gold and Pawn - Pitkin Ave first-party location page" ;
+    schema:url <https://kingpawnusa.com/king-gold-and-pawn-shop-pitkin-avenue/> .
+
+<https://kgp-datasets.local/source/src:kingpawnusa-com:53f341f4c5> a prov:Entity ;
+    kgp:contentSha256 "sha256:5de7f0b17bfc46cee3557f0e7510f77a7200a7dbc3432e370b9f461501adb9b9" ;
+    schema:name "King Gold and Pawn - Freeport first-party location page" ;
+    schema:url <https://kingpawnusa.com/pawn-shop-freeport/> .
+
+<https://kgp-datasets.local/source/src:kingpawnusa-com:7776d38948> a prov:Entity ;
+    kgp:contentSha256 "sha256:cf69edb820b22e89531b944c6a6d8783ba3fe93ea90adcc9cd351802a8c37e2c" ;
+    schema:name "King Gold and Pawn - Sunset Park first-party location page" ;
+    schema:url <https://kingpawnusa.com/king-gold-and-pawn-shop-5th-avenue-brooklyn/> .
+
+<https://kgp-datasets.local/source/src:kingpawnusa-com:9543278017> a prov:Entity ;
+    kgp:contentSha256 "sha256:6eb86745698e8e3ecd512e6285955120273be1586da49004c9b1db5e2c7b342d" ;
+    schema:name "King Gold and Pawn - Brighton Beach first-party location page" ;
+    schema:url <https://kingpawnusa.com/king-gold-and-pawn-shop-brighton-beach/> .
+
+<https://kgp-datasets.local/source/src:kingpawnusa-com:c36d590b0e> a prov:Entity ;
+    kgp:contentSha256 "sha256:0cecb184d6e0703003bd4f07469a6f3cc413add8411046a3e43c5db391cd9f08" ;
+    schema:name "King Gold and Pawn - New Rochelle first-party location page" ;
+    schema:url <https://kingpawnusa.com/pawn-shop-new-rochelle/> .
+
+<https://kgp-datasets.local/source/src:kingpawnusa-com:cd75e98f70> a prov:Entity ;
+    kgp:contentSha256 "sha256:d4dbe4ca00246c70e0677e1cd98d0178e98b305525bc06914d8bc6d500bc79f7" ;
+    schema:name "King Gold and Pawn - Lawrence first-party location page" ;
+    schema:url <https://kingpawnusa.com/pawn-shop-lawrence/> .
+
+<https://kgp-datasets.local/source/src:kingpawnusa-com:fe9898c8b6> a prov:Entity ;
+    kgp:contentSha256 "sha256:31afca2d013e49be612b3948432994cfba71d5f53e9f12070dbce95463844040" ;
+    schema:name "King Gold and Pawn - Bronx first-party location page" ;
+    schema:url <https://kingpawnusa.com/pawn-shop-the-bronx/> .
+
+<https://kgp-datasets.local/entity/ent:loc:kg-brighton-beach> a kgp:Entity,
+        schema:PawnShop ;
+    schema:name "King Gold and Pawn - Brighton Beach" ;
+    schema:telephone "+17186766762" ;
+    schema:url <https://kingpawnusa.com/king-gold-and-pawn-shop-brighton-beach/> .
+
+<https://kgp-datasets.local/entity/ent:loc:kg-bronx-longwood> a kgp:Entity,
+        schema:PawnShop ;
+    schema:name "King Gold and Pawn - Bronx" ;
+    schema:telephone "+17188727066" ;
+    schema:url <https://kingpawnusa.com/pawn-shop-the-bronx/> .
+
+<https://kgp-datasets.local/entity/ent:loc:kg-freeport> a kgp:Entity,
+        schema:PawnShop ;
+    schema:name "King Gold and Pawn - Freeport" ;
+    schema:telephone "+15164423939" ;
+    schema:url <https://kingpawnusa.com/pawn-shop-freeport/> .
+
+<https://kgp-datasets.local/entity/ent:loc:kg-lawrence> a kgp:Entity,
+        schema:PawnShop ;
+    schema:name "King Gold and Pawn - Lawrence" ;
+    schema:telephone "+15168129339" ;
+    schema:url <https://kingpawnusa.com/pawn-shop-lawrence/> .
+
+<https://kgp-datasets.local/entity/ent:loc:kg-new-rochelle> a kgp:Entity,
+        schema:PawnShop ;
+    schema:name "King Gold and Pawn - New Rochelle" ;
+    schema:telephone "+19142789445" ;
+    schema:url <https://kingpawnusa.com/pawn-shop-new-rochelle/> .
+
+<https://kgp-datasets.local/entity/ent:loc:kg-pitkin> a kgp:Entity,
+        schema:PawnShop ;
+    schema:name "King Gold and Pawn - Pitkin Ave" ;
+    schema:telephone "+17184848001" ;
+    schema:url <https://kingpawnusa.com/king-gold-and-pawn-shop-pitkin-avenue/> .
+
+<https://kgp-datasets.local/entity/ent:loc:kg-sunset-park> a kgp:Entity,
+        schema:PawnShop ;
+    schema:name "King Gold and Pawn - Sunset Park" ;
+    schema:telephone "+17186333339" ;
+    schema:url <https://kingpawnusa.com/king-gold-and-pawn-shop-5th-avenue-brooklyn/> .
+
