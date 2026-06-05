@@ -1,0 +1,28 @@
+{
+  "name": "kgp-discovery-graph",
+  "title": "King Gold & Pawn High-Trust Discovery Graph",
+  "description": "Source-backed entity, claim, relationship, and source tables for King Gold & Pawn discovery and citation consistency.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "resources": [
+    {
+      "name": "entities",
+      "path": "entities.csv"
+    },
+    {
+      "name": "sources",
+      "path": "sources.csv"
+    },
+    {
+      "name": "claims",
+      "path": "claims.csv"
+    },
+    {
+      "name": "relationships",
+      "path": "relationships.csv"
+    }
+  ]
+}
