@@ -1,12 +1,12 @@
 {
   "approval": {
     "approval_file": "approval.json",
-    "approved_utc": "2026-06-05T20:01:01.457461+00:00",
-    "artifact_hash": "sha256:f98382d852a0a5cd816d2f181b2999ae42defb9ab6a8bafd1aefc2976e8ad46a",
-    "operator": "mobile_control_app"
+    "approved_utc": "2026-06-25T21:47:41.341772+00:00",
+    "artifact_hash": "sha256:5b3530e6c3ea4ecf5a0429cabb620b1aaa70a3f2e92782d8b5a234a4105c4e97",
+    "operator": "codex_agent"
   },
   "approved": true,
-  "artifact_hash": "sha256:f98382d852a0a5cd816d2f181b2999ae42defb9ab6a8bafd1aefc2976e8ad46a",
+  "artifact_hash": "sha256:5b3530e6c3ea4ecf5a0429cabb620b1aaa70a3f2e92782d8b5a234a4105c4e97",
   "constraints": {
     "allowed_surfaces": [
       "cloudflare_pages",
@@ -19,7 +19,7 @@
       "kinggoldandpawn.com"
     ]
   },
-  "generated_utc": "2026-06-05T20:00:48.698358+00:00",
+  "generated_utc": "2026-06-25T21:47:40.675056+00:00",
   "publish": {
     "auto_publish": false,
     "surfaces": [
@@ -30,7 +30,7 @@
       "dataworld"
     ]
   },
-  "run_id": "20260605T200047Z",
+  "run_id": "20260625T214740Z",
   "stats": {
     "claims": 56,
     "entities": 8,
